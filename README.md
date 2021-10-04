@@ -7,4 +7,3 @@ This is the live site link (https://coder-townsville-jahid.netlify.app/)
 - This is a Educational Website.
 - In This Website You can Find beginner intermediate advanced programming Course so you can use this Website.
 - Specially this Website design for technology knowledge lover students
-- 
