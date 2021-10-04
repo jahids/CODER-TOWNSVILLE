@@ -1,6 +1,6 @@
 import React from 'react';
 import { Col, Container, Navbar, Row } from 'react-bootstrap';
-const img = `https://lh3.googleusercontent.com/proxy/ZTATezK6j5i38gkXWsOlowkjI1PRPcMH8oAayUyEnN56XlPhg5wwFtW95FW8Xk3tnzEz5OjQ4zsoMaV2i-cOiYALmyaxJTIE9hi9`;
+const img = `https://radiustheme.com/demo/wordpress/themes/digeco/wp-content/uploads/2020/01/feature1.png`;
 
 const Me = () => {
     return (
