@@ -1,0 +1,130 @@
+
+[ 
+
+{
+    "id":1,
+    "name":"Web Application Development with Laravel – Beginner",
+    "description":"This course solely focuses on Web Application Development with Laravel.There are a lot of people both from CS and Non-CS background who do not have adequateunderstandings on Web Application Development with Laravel",
+     "img":"https://training.skill.jobs/assets/uploads/course/banner/5829940.jpg",
+    "price":"$10,800",
+    "stage":"Beginner",
+    "duration":"6 Month"
+    
+ },
+
+ {
+    "id":2,
+    "name":"Data Structure & Algorithm Fundamentals",
+    "description":"This course solely focuses on data structure and algorithm fundamentals.There are a lot of people both from CS and Non-CS background who do not haveadequate understandings on data structures ",
+      
+    "img":"https://cdn.educba.com/academy/wp-content/uploads/2015/08/Data-Structures-and-Algorithms-C-1.jpg.webp",
+    "price":"$5,000",
+    "stage":"Beginner",
+    "duration":"4 Month"
+    
+ },
+
+ {
+    "id":3,
+    "name":"Competitive Programming - Advanced",
+    "description":"If you want to improve your algorithmic problem-solving skill and improve in National contests and Codeforces contests, you should enroll in this course.We will conduct the course in a suitable way for the",
+      
+    "img":"https://www.codingninjas.com/blog/wp-content/uploads/2020/11/Blog-34-780x408.png",
+    "price":"$7,000",
+    "stage":"Advanced",
+    "duration":"7 Month"
+    
+ },
+
+
+ {
+    "id":4,
+    "name":"Programming Basic",
+    "description":"This course solely focuses on programming fundamentals. There are many people who are from Non-CS background but have the indomitable desire to learn and understand the fundamentals of",
+      
+    "img":"https://miro.medium.com/max/1392/1*3C8BihuZeQ5G3wsKwVcjpw.jpeg",
+    "price":"$4,000",
+    "stage":"Beginner",
+    "duration":"3 Month"
+    
+ },
+
+ {
+    "id":5,
+    "name":"Master in Graphic Design",
+    "description":"This course has been designed with effective practical components that makes you a professional/ commercial Graphic designer. From the Design principle to Understanding graphic software to",
+      
+    "img":"https://i.ytimg.com/vi/z5SonCU-HdE/maxresdefault.jpg",
+    "price":"$16,000",
+    "stage":"Beginner",
+    "duration":"6 Month"
+    
+ },
+
+
+ {
+    "id":6,
+    "name":"Kubernetes Essentials",
+    "description":"Now a days most well known buzz word in the software industry is Kubernetes.Kubernetes Essentials Course will help you to learn how to develop and deploy web applications, different kind",
+      
+    "img":"https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/0bac7e42-c3a1-4c68-b2b6-0831b00a8ce9_469cc7c346bb470aab10b499b04d78f7_W400xH0.jpg",
+    "price":"$10,000",
+    "stage":"Beginner",
+    "duration":"10 Month"
+    
+ },
+
+ {
+    "id":7,
+    "name":"ReactJs - The Complete Guide",
+    "description":"Learn React or dive deeper into it. Learn the What, Why and How of ReactJs, solve assignments, practice in demo projects, and build one big application that is improved throughout the course",
+      
+    "img":"https://i.ytimg.com/vi/w7ejDZ8SWv8/maxresdefault.jpg",
+    "price":"$12,000",
+    "stage":"Intermediate",
+    "duration":"5 Month"
+    
+ },
+
+ {
+    "id":8,
+    "name":"Professional Cyber Security Career",
+    "description":"Cyber Security is a vital part of day to day Information Technology domain. If you are a programmer, system analyst, system administrator, students or a general computer user, it is better to understand IT Security/",
+      
+    "img":"https://www.simplilearn.com/ice9/category_image/Cyber-Security.jpg",
+    "price":"$20,000",
+    "stage":"Intermediate",
+    "duration":"12 Month"
+    
+ },
+
+ {
+    "id":9,
+    "name":"Video editing for beginners in Premiere Pro CC",
+    "description":"Do you want to edit your videos for youtube, facebook or film production? But you do not know how to start. Then this course is for you, Here you willlearn everything about video editing using one of the",
+      
+    "img":"https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fc45322064bd4.jpg?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-3.3.0&w=535&s=22e6c2e117e86d630e89a85e4b1935cb",
+    "price":"$4,000",
+    "stage":"Beginner",
+    "duration":"2 Month"
+    
+ }
+
+]
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
