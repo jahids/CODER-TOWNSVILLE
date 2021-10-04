@@ -1,6 +1,6 @@
 # Welcome to CODER TOWNSVILLE
 
-This is the live site link (https://coder-townsville-jahid.netlify.app/)
+This is the live site link (https://coder-townsville-jahid.netlify.app)
 
 
 ## About my react project CODER TOWNSVILLE
