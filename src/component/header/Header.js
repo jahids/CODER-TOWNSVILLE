@@ -8,13 +8,13 @@ const Header = () => {
            
             <Navbar  className="p-3" bg="light" variant="light">
             <Container>
-            <Navbar.Brand className="text-success" href="#home">CODER TOWNSVILLE</Navbar.Brand>
+            <Navbar.Brand className="text-success fw-bold fs-3" href="#home"> <i class="fas fa-code"></i> CODER TOWNSVILLE</Navbar.Brand>
             <Nav className="me-auto" style={{'margin':'auto'}}>
                
-            <Nav.Link as={Link} to="/home">Home</Nav.Link>
-            <Nav.Link as={Link} to="/mainsec">All Services</Nav.Link>
-            <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
-            <Nav.Link as={Link} to="/about">About US</Nav.Link>
+            <Nav.Link as={Link} className="fw-bold" to="/home">Home</Nav.Link>
+            <Nav.Link as={Link}  className="fw-bold" to="/mainsec">All Services</Nav.Link>
+            <Nav.Link as={Link}  className="fw-bold" to="/contact">Contact</Nav.Link>
+            <Nav.Link as={Link}  className="fw-bold" to="/about">About US</Nav.Link>
         
             </Nav>
             </Container>

@@ -20,11 +20,11 @@ const Gcard = (props) => {
         <h3 className="card-title font-weight-bold">{name}</h3>
         <p className="card-text "> <span className='fw-bold'> </span>{description} </p>
         <p className="card-text "> <span className='fw-bold'> Stage : </span>{stage}</p>
-        <p className="card-text "> <span className='fw-bold'> Duration : </span> {duration} </p>
+        <p className="card-text "> <span className='fw-bold'> Duration : </span> {duration}</p>
         <p className="card-text "> <span className='fw-bold'> price:</span> {price}</p>
 
       </div>
-     <div  className="btn btn-success">Enroll now</div>
+     <div  className="btn btn-success"> <i class="fas fa-cart-plus"></i>  Enroll now</div>
       </div>
 
 </div> 
