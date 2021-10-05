@@ -30,7 +30,7 @@ const Thome = () => {
             <img src={headerImg} alt="" />
         </div>
         <div className="mt-4">
-        <h1>WEL COME  <br /> TO  <br /> <span className = "fw-bold text-info">Coder</span> <span className = "fw-bold text-warning">Townsville</span></h1>
+        {/* <h1>WEL COME  <br /> TO  <br /> <span className = "fw-bold text-info">Coder</span> <span className = "fw-bold text-warning">Townsville</span></h1> */}
       <div className ="mt-4  latest-course " >
       <h4 className = "text-center text-white">Latest Courses</h4>
       <Row xs={1} md={3} lg= {4} className="g-4 m-2  ">      
